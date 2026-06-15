@@ -1,0 +1,37 @@
+name: py313g
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - numpy
+  - scipy
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - bokeh
+  - plotly
+  - jupyterlab
+  - ipywidgets
+  - notebook
+  - tqdm
+  - statsmodels
+  - networkx
+  - regex
+  - requests
+  - pyarrow
+  - openpyxl
+  - python-dotenv
+  - faker
+  - mlflow
+  - tomli
+  - pip
+  - pip:
+    - torch==2.7.0+cu132
+    - torchvision==0.22.0+cu132
+    - --extra-index-url https://download.pytorch.org/whl/cu132
+    - transformers
+    - datasets
+    - accelerate
+    - tokenizers
