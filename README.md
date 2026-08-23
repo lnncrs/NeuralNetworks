@@ -50,6 +50,6 @@ O notebook [Detecção de dispositivo](tools/detect-device.pt-br.ipynb) verifica
 
 ## Materiais complementares
 
-As versões em inglês e o material de fine-tuning com BERT permanecem em `other/`.
+As versões em inglês e o material de fine-tuning com BERT permanecem em `archive/`.
 
 Os arquivos `environment.yml` e `requirements.txt` continuam disponíveis como alternativas legadas. Para este projeto, o ambiente com `uv` é o recomendado.
