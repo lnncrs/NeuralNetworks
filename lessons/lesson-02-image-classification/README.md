@@ -1,6 +1,8 @@
 # Aula 2 - Classificação de imagens com CNN e ResNet
 
-Nesta aula, o mesmo fluxo de classificação é ampliado para imagens de ressonância magnética. Primeiro construímos uma CNN pequena e legível; depois usamos uma ResNet-18 para introduzir conexões residuais e transferência de aprendizado.
+[English](README.en.md)
+
+Nesta aula, o mesmo fluxo de classificação é ampliado para imagens de ressonância magnética. Primeiro construímos uma CNN pequena e legível; depois usamos ResNet-18 e ResNet-50 para introduzir conexões residuais, transferência de aprendizado e os compromissos entre capacidade e custo computacional.
 
 ## Objetivos
 
@@ -9,8 +11,9 @@ Nesta aula, o mesmo fluxo de classificação é ampliado para imagens de resson�
 - entender convolução, canais, ReLU e pooling;
 - implementar e treinar uma CNN simples;
 - entender blocos residuais e o problema de redes profundas;
-- usar uma ResNet-18 pré-treinada com transferência de aprendizado;
-- comparar os modelos com métricas adequadas a classes desbalanceadas;
+- usar ResNet-18 e ResNet-50 pré-treinadas com transferência de aprendizado;
+- diferenciar extração fixa de features e fine-tuning;
+- comparar os modelos com métricas adequadas à classificação multiclasse;
 - discutir limitações do conjunto de dados e do experimento.
 
 ## Ordem de execução
