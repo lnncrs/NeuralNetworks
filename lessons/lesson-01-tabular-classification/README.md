@@ -1,4 +1,4 @@
-# Aula 1 — Classificação tabular com MLP
+# Aula 1 - Classificação tabular com MLP
 
 Nesta aula, um conjunto de atributos numéricos de tumores de mama é usado para apresentar o fluxo completo de um problema de classificação com uma rede neural simples.
 

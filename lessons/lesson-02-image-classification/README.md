@@ -1,4 +1,4 @@
-# Aula 2 — Classificação de imagens com CNN e ResNet
+# Aula 2 - Classificação de imagens com CNN e ResNet
 
 Nesta aula, o mesmo fluxo de classificação é ampliado para imagens de ressonância magnética. Primeiro construímos uma CNN pequena e legível; depois usamos uma ResNet-18 para introduzir conexões residuais e transferência de aprendizado.
 
